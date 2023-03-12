@@ -6,4 +6,4 @@ Linux
 
 That is the simulated operating system. This project also necessitates installing git on the computer and pushing the files and folders to the appropriate github repository.
 
-The projeect is all about how to code in your local computer
+The projeect is all about how to code in your local computr
